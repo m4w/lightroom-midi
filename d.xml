@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="11" controller="11" command_string="LuminanceAdjustmentRed"/>
+  <setting channel="11" controller="12" command_string="LuminanceAdjustmentOrange"/>
+  <setting channel="11" controller="13" command_string="LuminanceAdjustmentYellow"/>
+  <setting channel="11" controller="14" command_string="LuminanceAdjustmentGreen"/>
+  <setting channel="11" controller="15" command_string="LuminanceAdjustmentAqua"/>
+  <setting channel="11" controller="16" command_string="LuminanceAdjustmentBlue"/>
+  <setting channel="11" controller="17" command_string="LuminanceAdjustmentPurple"/>
+  <setting channel="11" controller="18" command_string="LuminanceAdjustmentMagenta"/>
+  <setting channel="11" note="32" command_string="profile1"/>
+  <setting channel="11" note="33" command_string="profile2"/>
+  <setting channel="11" note="34" command_string="profile3"/>
+  <setting channel="11" note="35" command_string="profile4"/>
+</settings>

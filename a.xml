@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="11" controller="1" command_string="Exposure"/>
+  <setting channel="11" controller="2" command_string="Contrast"/>
+  <setting channel="11" controller="3" command_string="ParametricShadows"/>
+  <setting channel="11" controller="4" command_string="ParametricDarks"/>
+  <setting channel="11" controller="5" command_string="ParametricLights"/>
+  <setting channel="11" controller="6" command_string="ParametricHighlights"/>
+  <setting channel="11" note="16" command_string="Key1"/>
+  <setting channel="11" note="17" command_string="Key2"/>
+  <setting channel="11" note="18" command_string="Prev"/>
+  <setting channel="11" note="19" command_string="Next"/>
+  <setting channel="11" note="20" command_string="ToggleRed"/>
+  <setting channel="11" note="21" command_string="Reject"/>
+  <setting channel="11" note="22" command_string="RemoveFlag"/>
+  <setting channel="11" note="32" command_string="profile1"/>
+  <setting channel="11" note="33" command_string="profile2"/>
+  <setting channel="11" note="34" command_string="profile3"/>
+  <setting channel="11" note="35" command_string="profile4"/>
+  <setting channel="11" note="8" command_string="AutoTone"/>
+</settings>
